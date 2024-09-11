@@ -1,0 +1,1 @@
+Pasta destinada para adicionar a front-end do aplicativo Hairpass.

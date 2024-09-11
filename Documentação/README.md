@@ -1,0 +1,1 @@
+Pasta destinada para adicionar a documentação do aplicativo Hairpass.

@@ -1,0 +1,1 @@
+Pasta destinada para adicionar a prototipagem do aplicativo Hairpass.
