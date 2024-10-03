@@ -15,3 +15,7 @@
 ##### O HairPass oferece diversos planos de assinatura. Os usuários podem escolher o plano que melhor se adequa às suas necessidades, proporcionando uma experiência personalizada e econômica. 
 
 ##### O HairPass entende que o tempo é um dos bens mais preciosos na rotina moderna. Nossa missão é tornar o cuidado com o visual algo prático e acessível. Seja para um corte, coloração ou tratamento capilar, o HairPass garante que seus cuidados sejam sempre ao seu alcance.
+
+
+Apresentar o <strong>PraPet<strong/><br>
+Responsável: Márcia
